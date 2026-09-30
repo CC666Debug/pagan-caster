@@ -262,7 +262,7 @@
 </dialog>
 
 <script>
-const VERSION = '1.0.0';
+const VERSION = '1.0.1';
 const $ = id => document.getElementById(id);
 const els = {
   castBtn: $('castBtn'), castLabel: $('castLabel'), notice: $('notice'), where: $('where'),
@@ -286,7 +286,10 @@ function diag(msg) {
   if (diagLines.length > 300) diagLines = diagLines.slice(-300);
   safeSet(DIAG_KEY, JSON.stringify(diagLines));
 }
-diag('── opened · Pagan Caster v' + VERSION + ' · ' + navigator.userAgent);
+// How it was opened: its own app window (installed) or an ordinary browser tab.
+const openedAs = ['standalone', 'minimal-ui', 'fullscreen', 'browser'].find(m => matchMedia('(display-mode: ' + m + ')').matches) || 'unknown';
+diag('── opened · Pagan Caster v' + VERSION + ' · ' + (openedAs === 'browser' ? 'browser tab' : 'app window (' + openedAs + ')')
+  + (document.referrer ? ' · from ' + document.referrer : '') + ' · ' + navigator.userAgent);
 
 const GENRES = [
   { id: 'Wiccan & Witchy', label: '🌙 Wiccan & Witchy', icon: '🌙' },
