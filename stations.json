@@ -1,0 +1,696 @@
+[
+{
+"name": "International Pagan Radio",
+"group": "Wiccan & Witchy",
+"about": "All pagan, all the time: Wiccan chants, pagan folk and community shows",
+"url": "https://studio22.radiolize.com/radio/8160/radio.mp3",
+"type": "audio/aac",
+"kbps": 96,
+"meta": {
+"k": "azura",
+"u": "https://studio22.radiolize.com/api/nowplaying_static/international_pagan_radio.json"
+},
+"id": "d0233c4b"
+},
+{
+"name": "Boon",
+"group": "Wiccan & Witchy",
+"about": "Medieval, Celtic and Irish music; tagged Wicca and Faun",
+"url": "https://stream.laut.fm/boon",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "boon"
+},
+"id": "8c090d7a"
+},
+{
+"name": "Nebenwelten",
+"group": "Wiccan & Witchy",
+"about": "Music with a spiritual, neopagan and shamanic theme",
+"url": "https://stream.laut.fm/nebenwelten",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "nebenwelten"
+},
+"id": "6454d33b"
+},
+{
+"name": "Nachtfalkin",
+"group": "Wiccan & Witchy",
+"about": "Pagan folk and Celtic music, plus paranormal radio shows",
+"url": "https://stream.laut.fm/nachtfalkin",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "nachtfalkin"
+},
+"id": "00b68204"
+},
+{
+"name": "Pagan Honey Productions",
+"group": "Wiccan & Witchy",
+"about": "Pagan community stream",
+"url": "http://eagle.streemlion.com:4284/autodj",
+"insecure": true,
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "44bcc6e0"
+},
+{
+"name": "PaganRadio.org",
+"group": "Pagan & Heathen",
+"about": "Not-for-profit pagan and folk station, artists from around the world",
+"url": "https://radio.streemlion.com/paganradio/stream",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "60f9a366"
+},
+{
+"name": "Ironwood Radio",
+"group": "Pagan & Heathen",
+"about": "Pagan folk, pagan rock and electro-pagan (the stream calls itself \"Online Radio\")",
+"url": "https://quincy.torontocast.com:2155/stream",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "icecast",
+"u": "https://quincy.torontocast.com:2155/status-json.xsl",
+"m": "/stream"
+},
+"id": "e5cdfd3f"
+},
+{
+"name": "Radio YouPagan",
+"group": "Pagan & Heathen",
+"about": "Freeform pagan radio (low quality, 32 kbps)",
+"url": "https://ec1.yesstreaming.net:4310/stream",
+"type": "audio/aac",
+"kbps": 32,
+"id": "00c3385d"
+},
+{
+"name": "Gaia FM",
+"group": "Pagan & Heathen",
+"about": "Earth spirituality, world folk and nature chants",
+"url": "https://s2.stationplaylist.com:9000/gaiafm.aac",
+"type": "audio/aac",
+"kbps": 128,
+"id": "f3225787"
+},
+{
+"name": "CeltCast",
+"group": "Norse, Viking & Nordic",
+"about": "Viking, Celtic and pagan folk: Danheim, Wardruna, Faun, Heilung",
+"url": "https://caster04.streampakket.com/proxy/8982/CeltCast",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "4da5965f"
+},
+{
+"name": "Radio Skald",
+"group": "Norse, Viking & Nordic",
+"about": "Nordic sounds and Viking sagas",
+"url": "https://stream.laut.fm/skald",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "skald"
+},
+"id": "8d11c1db"
+},
+{
+"name": "Tiwaz Camp",
+"group": "Norse, Viking & Nordic",
+"about": "Viking, Celtic and \"MediEvil\" music, 24/7",
+"url": "https://stream.laut.fm/tiwaz-camp",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "tiwaz-camp"
+},
+"id": "8aac275c"
+},
+{
+"name": "Metstube",
+"group": "Norse, Viking & Nordic",
+"about": "Medieval rock and Nordic songs",
+"url": "https://stream.laut.fm/metstube",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metstube"
+},
+"id": "f49e4300"
+},
+{
+"name": "Radio Drachenherz",
+"group": "Norse, Viking & Nordic",
+"about": "Medieval scene, medieval rock and Nordic songs",
+"url": "https://stream.laut.fm/drachenherz",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "drachenherz"
+},
+"id": "d0baae89"
+},
+{
+"name": "Radio Folk (Denmark)",
+"group": "Norse, Viking & Nordic",
+"about": "Traditional Nordic folk",
+"url": "https://stream.radiojar.com/fqt2y0ds97zuv",
+"type": "audio/mpeg",
+"id": "594cda44"
+},
+{
+"name": "NEOFOLK",
+"group": "Neofolk, Dark Folk & Ritual",
+"about": "Neofolk, dark folk and pagan (Wardruna, Current 93, Sol Invictus)",
+"url": "https://stream.laut.fm/neofolk",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "neofolk"
+},
+"id": "4267c03b"
+},
+{
+"name": "Greyarea",
+"group": "Neofolk, Dark Folk & Ritual",
+"about": "Dark folk, ritual and dark ambient",
+"url": "https://stream.laut.fm/greyarea",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "greyarea"
+},
+"id": "a4ff377d"
+},
+{
+"name": "Shamanic Radio Art",
+"group": "Neofolk, Dark Folk & Ritual",
+"about": "Shamanic drums, trance journeys and throat singing",
+"url": "https://air.radioart.online/hShamanic.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "33020598"
+},
+{
+"name": "Schwarze Szene",
+"group": "Neofolk, Dark Folk & Ritual",
+"about": "Gothic, dark wave and neofolk mix",
+"url": "https://stream.laut.fm/schwarzeszene",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "schwarzeszene"
+},
+"id": "2d8ff76a"
+},
+{
+"name": "Mittelalter (Flatlines)",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval and pagan folk, medieval rock",
+"url": "https://stream.laut.fm/mittelalter",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "mittelalter"
+},
+"id": "3ae356f8"
+},
+{
+"name": "Der Barde",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval, pagan folk, pipes and drums",
+"url": "https://stream.laut.fm/der-barde",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "der-barde"
+},
+"id": "0f6f9529"
+},
+{
+"name": "Narrenwut",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "German medieval scene: Faun, In Extremo, Saltatio Mortis",
+"url": "https://stream.laut.fm/mittelalter-net",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "mittelalter-net"
+},
+"id": "854ec4b0"
+},
+{
+"name": "HEAVY.RADIO Mittelalter",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval folk-rock",
+"url": "https://streams.rautemusik.fm/mittelalter/mp3-192",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "d3784c2a"
+},
+{
+"name": "Radio Rabenwind",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval scene, medieval rock and Nordic songs",
+"url": "https://stream.laut.fm/rabenwind",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "rabenwind"
+},
+"id": "23b613b1"
+},
+{
+"name": "Radio Middleages",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval, folk and Celtic",
+"url": "https://stream.laut.fm/radio-middleages",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "radio-middleages"
+},
+"id": "88180435"
+},
+{
+"name": "Radio AENA",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval, folk and fantasy",
+"url": "https://stream.laut.fm/radio-aena",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "radio-aena"
+},
+"id": "8db95ff9"
+},
+{
+"name": "Mittelaltermarkt",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval market music and minstrels",
+"url": "https://stream.laut.fm/mittelaltermarkt",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "mittelaltermarkt"
+},
+"id": "e04a9c04"
+},
+{
+"name": "Hilaria",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval market music and Celtic",
+"url": "https://stream.laut.fm/hilaria",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "hilaria"
+},
+"id": "150330c3"
+},
+{
+"name": "Koboldschänke",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval, pirate and fantasy folk",
+"url": "https://stream.laut.fm/koboldschaenke",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "koboldschaenke"
+},
+"id": "948219d3"
+},
+{
+"name": "Drachenfeuer FM",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval, folk-rock, Celtic and fantasy",
+"url": "https://stream.laut.fm/drachenfeuer",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "drachenfeuer"
+},
+"id": "519466b4"
+},
+{
+"name": "Medieval Fantasy Radio",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval and fantasy music",
+"url": "https://stream.laut.fm/medieval-fantasy",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "medieval-fantasy"
+},
+"id": "fe4f839d"
+},
+{
+"name": "Monacensis",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval market music, folk and Celtic",
+"url": "https://stream.laut.fm/monacensis",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "monacensis"
+},
+"id": "72aeeb97"
+},
+{
+"name": "Mittelalterserver",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval and folk-rock",
+"url": "https://stream.laut.fm/mittelalterserver",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "mittelalterserver"
+},
+"id": "3d2f17e8"
+},
+{
+"name": "Radio Dudelsack",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Bagpipes, hurdy-gurdy and medieval rock",
+"url": "https://stream.laut.fm/dudelsack",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "dudelsack"
+},
+"id": "20c70c71"
+},
+{
+"name": "Fantasyradio",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Epic fantasy, medieval and folk",
+"url": "https://stream.laut.fm/fantasyradio",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "fantasyradio"
+},
+"id": "0bdf53c7"
+},
+{
+"name": "Radio Rivendell",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Fantasy, Celtic and epic instrumental",
+"url": "https://play.radiorivendell.com/radio/8000/radio.mp3",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "azura",
+"u": "https://play.radiorivendell.com/api/nowplaying_static/radio_rivendell.json"
+},
+"id": "a246b414"
+},
+{
+"name": "Lothlórien (Radio Rivendell)",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Elven ambient, harps and vocals",
+"url": "https://play.radiorivendell.com/radio/8020/radio.mp3",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "04da1a61"
+},
+{
+"name": "The Green Dragon (Radio Rivendell)",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Tavern and hearth folk",
+"url": "https://play.radiorivendell.com/radio/8010/radio.mp3",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "azura",
+"u": "https://play.radiorivendell.com/api/nowplaying_static/the_green_dragon.json"
+},
+"id": "149a052f"
+},
+{
+"name": "SomaFM ThistleRadio",
+"group": "Celtic Pagan",
+"about": "Celtic roots, old and new",
+"url": "https://ice5.somafm.com/thistle-128-aac",
+"type": "audio/aac",
+"kbps": 128,
+"meta": {
+"k": "soma",
+"id": "thistle"
+},
+"id": "b5d847fd"
+},
+{
+"name": "Celtic Sounds",
+"group": "Celtic Pagan",
+"about": "Celtic pipes and drums",
+"url": "https://stream.laut.fm/celtic-sounds",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "celtic-sounds"
+},
+"id": "60255420"
+},
+{
+"name": "Radio Art Celtic",
+"group": "Celtic Pagan",
+"about": "Calm Celtic harps and flutes",
+"url": "https://live.radioart.com/fCeltic.mp3",
+"type": "audio/mpeg",
+"kbps": 96,
+"id": "abe55e50"
+},
+{
+"name": "Forest Green Radio",
+"group": "Celtic Pagan",
+"about": "Mystical forest and Celtic folk",
+"url": "http://s1.streamaudio.de:8000/forest-green",
+"insecure": true,
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "icecast",
+"u": "http://s1.streamaudio.de:8000/status-json.xsl",
+"m": "/forest-green"
+},
+"id": "0b220748"
+},
+{
+"name": "GotRadio Folk Lore",
+"group": "Celtic Pagan",
+"about": "Myths and folklore songs",
+"url": "https://pureplay.cdnstream1.com/6001_128.mp3",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "27477cad"
+},
+{
+"name": "Metalmaster Alf",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Medieval rock, Viking metal and pagan metal",
+"url": "https://stream.laut.fm/metalmaster-alf",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metalmaster-alf"
+},
+"id": "5a65a4bd"
+},
+{
+"name": "Odin's Metal Rock Club",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Heathen metal and medieval rock",
+"url": "https://stream.laut.fm/odinsmetalrockclub",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "odinsmetalrockclub"
+},
+"id": "3468daea"
+},
+{
+"name": "HTD Rock",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Medieval, metal and pagan rock",
+"url": "https://stream.laut.fm/htd-rock",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "htd-rock"
+},
+"id": "253fd681"
+},
+{
+"name": "Radio Fonlord",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Czech folk metal and pagan black metal",
+"url": "https://a5.asurahosting.com:6530/radio.mp3",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "32bd4162"
+},
+{
+"name": "Witchcraft Wizardry FM",
+"group": "Wiccan & Witchy",
+"about": "Witchy radio (German)",
+"url": "https://stream.laut.fm/witchcraft-wizardry-fm",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "witchcraft-wizardry-fm"
+},
+"id": "024079a0"
+},
+{
+"name": "Coddly Witch Radio",
+"group": "Wiccan & Witchy",
+"about": "Witchy radio (German)",
+"url": "https://stream.laut.fm/coddly-witch-radio",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "coddly-witch-radio"
+},
+"id": "3a84e6be"
+},
+{
+"name": "Radio Valhall",
+"group": "Norse, Viking & Nordic",
+"about": "Viking and Nordic radio",
+"url": "https://stream.laut.fm/850",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "850"
+},
+"id": "a1427237"
+},
+{
+"name": "Dark Mythos",
+"group": "Neofolk, Dark Folk & Ritual",
+"about": "Dark myths: gothic, folk and medieval",
+"url": "https://stream.laut.fm/dark-mythos",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "dark-mythos"
+},
+"id": "d3dac727"
+},
+{
+"name": "RADIO BOB! Mittelalter Rock",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval rock: Blackmore's Night, Faun, Saltatio Mortis",
+"url": "https://streams.radiobob.de/mittelalter/mp3-192/mediaplayer",
+"type": "audio/mpeg",
+"id": "bd66a225"
+},
+{
+"name": "Neue Burg Radio",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval, gothic, rock and folk",
+"url": "https://stream.laut.fm/neue-burg-radio",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "neue-burg-radio"
+},
+"id": "5cefb33a"
+},
+{
+"name": "One For All",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Dark and Celtic music",
+"url": "https://stream.laut.fm/one_for_all",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "one_for_all"
+},
+"id": "b207b13f"
+},
+{
+"name": "Epic Pur Radio",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Fantasy, medieval, rock and metal",
+"url": "https://stream.laut.fm/epic",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "epic"
+},
+"id": "7f37785f"
+},
+{
+"name": "Radio Kelt Magic",
+"group": "Celtic Pagan",
+"about": "Celtic music \"from the depth of the heart\"",
+"url": "https://misato.ru-hoster.com:8049/radiokeltmagic",
+"type": "audio/mpeg",
+"kbps": 256,
+"id": "b4e30218"
+},
+{
+"name": "Celtica Radio",
+"group": "Celtic Pagan",
+"about": "Celtic music from Wales",
+"url": "http://eu8.fastcast4u.com:5232/stream1",
+"insecure": true,
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "43166c7e"
+},
+{
+"name": "Pagan Metal Radio",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Pagan metal (Madrid)",
+"url": "http://s1.streaming10.com:9000/stream",
+"insecure": true,
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "1ac35133"
+}
+]
