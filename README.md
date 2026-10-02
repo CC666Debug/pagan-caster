@@ -8,7 +8,7 @@ A sister app to [🎃 Halloween Caster](https://cc666debug.github.io/halloween-c
 
 ## What it does
 
-- **58 stations**, every one tested before it went in: International Pagan Radio, PaganRadio.org, Ironwood, CeltCast, Radio Skald, NEOFOLK, Radio Rivendell and many more.
+- **63 stations**, every one tested before it went in: International Pagan Radio, PaganRadio.org, Ironwood, CeltCast, Radio Skald, NEOFOLK, Radio Rivendell and many more.
 - **The sky above you.** Today's moon phase, days until the next full moon, and a countdown to the next sabbat on the Wheel of the Year.
 - **Song names.** Most stations (marked ♪) show the song playing now, on screen and on your lock screen.
 - **Search** names and descriptions, like `witch`, `viking`, `druid` or `faun`.

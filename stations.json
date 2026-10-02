@@ -692,5 +692,56 @@
 "type": "audio/mpeg",
 "kbps": 128,
 "id": "1ac35133"
+},
+{
+"id": "adc56195",
+"name": "Radio Caprice - Pagan Metal",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Pagan metal",
+"url": "http://79.111.119.111:8000/paganmetal",
+"type": "audio/aac",
+"insecure": true
+},
+{
+"id": "1a4bb5b7",
+"name": "Radio Caprice - Viking Metal",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Viking metal",
+"url": "http://79.111.14.76:8000/vikingmetal",
+"type": "audio/aac",
+"insecure": true
+},
+{
+"id": "3824576c",
+"name": "Sinnflut",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Folk and Mittelalter metal: Amon Amarth, Faun, Korpiklaani",
+"url": "https://sinnflut.stream.laut.fm/sinnflut",
+"type": "audio/mpeg",
+"meta": {
+"k": "laut",
+"id": "sinnflut"
+}
+},
+{
+"id": "e7772824",
+"name": "RADIO BOB! Mittelalter Rock",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Mittelalter rock from Radio BOB",
+"url": "http://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/",
+"type": "audio/mpeg",
+"insecure": true
+},
+{
+"id": "af981ffd",
+"name": "Schwarzes Nrw",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Mittelalter and dark scene: Schandmaul, Schelmish, Unheilig",
+"url": "https://schwarzes-nrw.stream.laut.fm/schwarzes-nrw",
+"type": "audio/mpeg",
+"meta": {
+"k": "laut",
+"id": "schwarzes-nrw"
+}
 }
 ]
