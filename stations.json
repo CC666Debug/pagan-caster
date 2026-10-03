@@ -743,5 +743,96 @@
 "k": "laut",
 "id": "schwarzes-nrw"
 }
+},
+{
+"name": "Ancient FM",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Commercial-free medieval and Renaissance music",
+"url": "https://mediaserv73.live-streams.nl:18058/stream",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "880e9534"
+},
+{
+"name": "Early Music (laut.fm)",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval and Renaissance music, with some Baroque",
+"url": "https://stream.laut.fm/early_music",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "early_music"
+},
+"id": "67698fdd"
+},
+{
+"name": "Toutes les couleurs du trad",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "European traditional folk: French trad, Celtic and medieval tunes",
+"url": "https://my2.radiolize.com/radio/8100/radio.mp3",
+"type": "audio/aac",
+"kbps": 96,
+"id": "9d819aa6"
+},
+{
+"name": "Celtic Music Radio",
+"group": "Celtic Pagan",
+"about": "Glasgow community station: Scottish and Irish trad and Celtic folk",
+"url": "https://uksoutha.streaming.broadcast.radio/celtic",
+"type": "audio/mpeg",
+"id": "442c9433"
+},
+{
+"name": "LiveIreland",
+"group": "Celtic Pagan",
+"about": "Irish and Celtic music",
+"url": "http://lynx.prostreaming.net:8058/;",
+"type": "audio/mpeg",
+"kbps": 128,
+"insecure": true,
+"id": "20684393"
+},
+{
+"name": "Celtic Rock (laut.fm)",
+"group": "Celtic Pagan",
+"about": "Celtic folk and Celtic rock",
+"url": "https://stream.laut.fm/celtic-rock",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "celtic-rock"
+},
+"id": "0382e578"
+},
+{
+"name": "Irish Pub Radio",
+"group": "Celtic Pagan",
+"about": "Irish folk and pub ballads, with some Irish pop",
+"url": "http://solid24.streamupsolutions.com:8026/stream",
+"type": "audio/mpeg",
+"kbps": 128,
+"insecure": true,
+"id": "b10ea918"
+},
+{
+"name": "WUMB Celtic Journey",
+"group": "Celtic Pagan",
+"about": "Celtic folk from Boston's WUMB (low-quality stream)",
+"url": "http://wumb.streamguys1.com/wumb919cj",
+"type": "audio/mpeg",
+"kbps": 32,
+"insecure": true,
+"id": "2819b386"
+},
+{
+"name": "Donald's Radio",
+"group": "Celtic Pagan",
+"about": "Celtic rock and Highland music",
+"url": "https://radio.donald.cat/listen/donalds_radio/radio.mp3",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "1f7b3082"
 }
 ]
