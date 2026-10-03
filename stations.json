@@ -834,5 +834,95 @@
 "type": "audio/mpeg",
 "kbps": 192,
 "id": "1f7b3082"
+},
+{
+"name": "Radio Caprice - Folk Death Metal",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Radio Caprice: folk death metal",
+"url": "http://79.120.12.130:8000/folkdeathmet",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "42f10676"
+},
+{
+"name": "Radio Caprice - Medieval Music",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Radio Caprice: medieval music",
+"url": "http://213.141.131.10:8000/medieval",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "45ff1a69"
+},
+{
+"name": "Radio Caprice - Medieval Folk",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Radio Caprice: medieval folk",
+"url": "http://213.141.131.10:8004/medievalfolk",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "df82ff74"
+},
+{
+"name": "Radio Caprice - Renaissance Music",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Radio Caprice: renaissance music",
+"url": "http://213.141.131.10:8000/renaissance",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "53948b61"
+},
+{
+"name": "Radio Caprice - Gregorian Chant",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Radio Caprice: gregorian chant",
+"url": "http://213.141.131.10:8002/chants",
+"type": "audio/aac",
+"kbps": 48,
+"insecure": true,
+"id": "1378097a"
+},
+{
+"name": "Radio Caprice - Folk Metal",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Radio Caprice: folk metal",
+"url": "http://79.120.39.202:8000/folkmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "e66bcc45"
+},
+{
+"name": "Radio Caprice - Medieval Metal Rock",
+"group": "Pagan, Viking & Folk Metal",
+"about": "Radio Caprice: medieval metal rock",
+"url": "http://213.141.131.10:8004/medievalmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "8900d3df"
+},
+{
+"name": "Radio Caprice - Celtic",
+"group": "Celtic Pagan",
+"about": "Radio Caprice: celtic",
+"url": "http://79.111.14.76:8000/celtic",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "04944440"
+},
+{
+"name": "Radio Caprice - Slavonic",
+"group": "Neofolk, Dark Folk & Ritual",
+"about": "Radio Caprice: slavonic",
+"url": "http://213.141.131.10:8000/slavonicneofolk",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "5a04f2fd"
 }
 ]
