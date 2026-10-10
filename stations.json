@@ -924,5 +924,23 @@
 "kbps": 320,
 "insecure": true,
 "id": "5a04f2fd"
+},
+{
+"name": "KPPR Pure Pagan Radio",
+"group": "Pagan & Heathen",
+"about": "Pagan talk and music",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC244.mp3",
+"type": "audio/mpeg",
+"kbps": 64,
+"id": "8ad4ffd1"
+},
+{
+"name": "The Cauldron WCAS",
+"group": "Pagan & Heathen",
+"about": "Pagan, earth-based and European rock",
+"url": "https://a9.asurahosting.com/listen/the_cauldron_wcas-db/radio.mp3",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "0005c0f0"
 }
 ]
