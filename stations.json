@@ -942,5 +942,33 @@
 "type": "audio/mpeg",
 "kbps": 192,
 "id": "0005c0f0"
+},
+{
+"name": "CEU Medieval Radio",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval music from Central European University, Budapest",
+"url": "http://137.74.85.85:7020/;stream",
+"type": "audio/mpeg",
+"kbps": 128,
+"insecure": true,
+"id": "0f9c748f"
+},
+{
+"name": "Dzed Bardaitis Radio",
+"group": "Neofolk, Dark Folk & Ritual",
+"about": "Neofolk, industrial and dark electronica",
+"url": "https://samcloud.spacial.com/api/listen?sid=113442&m=sc&rid=195031",
+"type": "audio/aac",
+"kbps": 128,
+"id": "73ed6b4a"
+},
+{
+"name": "Explorers Emporium Radio",
+"group": "Medieval & Pagan Folk (Mittelalter)",
+"about": "Medieval, Renaissance and fantasy music",
+"url": "https://listen.radioking.com/radio/155740/stream/196375",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "22141ae5"
 }
 ]
