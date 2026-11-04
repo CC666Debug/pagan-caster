@@ -566,32 +566,6 @@
 "id": "32bd4162"
 },
 {
-"name": "Witchcraft Wizardry FM",
-"group": "Wiccan & Witchy",
-"about": "Witchy radio (German)",
-"url": "https://stream.laut.fm/witchcraft-wizardry-fm",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "witchcraft-wizardry-fm"
-},
-"id": "024079a0"
-},
-{
-"name": "Coddly Witch Radio",
-"group": "Wiccan & Witchy",
-"about": "Witchy radio (German)",
-"url": "https://stream.laut.fm/coddly-witch-radio",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "coddly-witch-radio"
-},
-"id": "3a84e6be"
-},
-{
 "name": "Radio Valhall",
 "group": "Norse, Viking & Nordic",
 "about": "Viking and Nordic radio",
@@ -652,19 +626,6 @@
 "id": "b207b13f"
 },
 {
-"name": "Epic Pur Radio",
-"group": "Medieval & Pagan Folk (Mittelalter)",
-"about": "Fantasy, medieval, rock and metal",
-"url": "https://stream.laut.fm/epic",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "epic"
-},
-"id": "7f37785f"
-},
-{
 "name": "Radio Kelt Magic",
 "group": "Celtic Pagan",
 "about": "Celtic music \"from the depth of the heart\"",
@@ -722,15 +683,6 @@
 "k": "laut",
 "id": "sinnflut"
 }
-},
-{
-"id": "e7772824",
-"name": "RADIO BOB! Mittelalter Rock",
-"group": "Medieval & Pagan Folk (Mittelalter)",
-"about": "Mittelalter rock from Radio BOB",
-"url": "http://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/",
-"type": "audio/mpeg",
-"insecure": true
 },
 {
 "id": "af981ffd",
