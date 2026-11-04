@@ -26,19 +26,6 @@
 "id": "8c090d7a"
 },
 {
-"name": "Nebenwelten",
-"group": "Wiccan & Witchy",
-"about": "Music with a spiritual, neopagan and shamanic theme",
-"url": "https://stream.laut.fm/nebenwelten",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "nebenwelten"
-},
-"id": "6454d33b"
-},
-{
 "name": "Nachtfalkin",
 "group": "Wiccan & Witchy",
 "about": "Pagan folk and Celtic music, plus paranormal radio shows",
@@ -83,15 +70,6 @@
 "m": "/stream"
 },
 "id": "e5cdfd3f"
-},
-{
-"name": "Radio YouPagan",
-"group": "Pagan & Heathen",
-"about": "Freeform pagan radio (low quality, 32 kbps)",
-"url": "https://ec1.yesstreaming.net:4310/stream",
-"type": "audio/aac",
-"kbps": 32,
-"id": "00c3385d"
 },
 {
 "name": "Gaia FM",
@@ -385,19 +363,6 @@
 "id": "72aeeb97"
 },
 {
-"name": "Mittelalterserver",
-"group": "Medieval & Pagan Folk (Mittelalter)",
-"about": "Medieval and folk-rock",
-"url": "https://stream.laut.fm/mittelalterserver",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "mittelalterserver"
-},
-"id": "3d2f17e8"
-},
-{
 "name": "Radio Dudelsack",
 "group": "Medieval & Pagan Folk (Mittelalter)",
 "about": "Bagpipes, hurdy-gurdy and medieval rock",
@@ -529,19 +494,6 @@
 "id": "metalmaster-alf"
 },
 "id": "5a65a4bd"
-},
-{
-"name": "Odin's Metal Rock Club",
-"group": "Pagan, Viking & Folk Metal",
-"about": "Heathen metal and medieval rock",
-"url": "https://stream.laut.fm/odinsmetalrockclub",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "odinsmetalrockclub"
-},
-"id": "3468daea"
 },
 {
 "name": "HTD Rock",
@@ -682,18 +634,6 @@
 "meta": {
 "k": "laut",
 "id": "sinnflut"
-}
-},
-{
-"id": "af981ffd",
-"name": "Schwarzes Nrw",
-"group": "Medieval & Pagan Folk (Mittelalter)",
-"about": "Mittelalter and dark scene: Schandmaul, Schelmish, Unheilig",
-"url": "https://schwarzes-nrw.stream.laut.fm/schwarzes-nrw",
-"type": "audio/mpeg",
-"meta": {
-"k": "laut",
-"id": "schwarzes-nrw"
 }
 },
 {
