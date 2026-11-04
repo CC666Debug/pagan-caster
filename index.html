@@ -199,6 +199,9 @@
      Any scroll up (or a tap on the bar) brings the full player back. */
   .topbar { display: flex; flex-direction: column; gap: 8px; }
   .icon-btn.mini-cast { display: none; }
+  /* The save-song heart rides along in the mini bar (the big one is hidden there). */
+  .icon-btn.mini-heart { display: none; }
+  .top.mini .row .icon-btn.mini-heart:not([hidden]) { display: inline-flex; align-items: center; justify-content: center; width: 37px; height: 37px; padding: 0; font-size: 19px; line-height: 1; }
   .pill.heart { font-size: 18px; padding-top: 4px; padding-bottom: 4px; }
   .share-app {
     display: block; width: 100%; margin: 16px 0 4px; font: inherit; font-weight: 650; color: var(--accent);
@@ -386,6 +389,7 @@
       <button class="icon-btn" id="nextBtn" aria-label="Next station" title="Next station">
         <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/></svg>
       </button>
+      <button class="icon-btn mini-heart" id="miniFav" aria-label="Save song" title="Save song" hidden>🤍</button>
       <button class="icon-btn mini-cast" id="miniCast" aria-label="Casting to a speaker" title="Casting to a speaker">
         <svg viewBox="0 0 24 24" fill="currentColor"><path d="M1 18v3h3c0-1.66-1.34-3-3-3zm0-4v2c2.76 0 5 2.24 5 5h2c0-3.87-3.13-7-7-7zm0-4v2a9 9 0 0 1 9 9h2c0-6.08-4.93-11-11-11zm20-7H3c-1.1 0-2 .9-2 2v3h2V5h18v14h-7v2h7c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"/></svg>
       </button>
@@ -482,7 +486,7 @@ let httpOK = false; try { httpOK = localStorage.getItem('http_ok') === '1'; } ca
 // Brave won't load old http:// streams at a bare number address (Radio Caprice) inside this secure app,
 // but it will by name: sslip.io turns 1.2.3.4 into the name 1-2-3-4.sslip.io (free, same server). Speakers keep the original link.
 const hereSrc = u => location.protocol === 'https:' ? u.replace(/^http:\/\/(\d+)\.(\d+)\.(\d+)\.(\d+)(?=[:/]|$)/, 'http://$1-$2-$3-$4.sslip.io') : u;
-const VERSION = '1.15.0';
+const VERSION = '1.16.0';
 const $ = id => document.getElementById(id);
 const els = {
   castBtn: $('castBtn'), castLabel: $('castLabel'), notice: $('notice'), where: $('where'),
@@ -1327,6 +1331,7 @@ function toggleSaved(x) {
   renderSongInfo();
 }
 $('favBtn').addEventListener('click', () => { const c = currentSong(); if (c) toggleSaved(c); });
+$('miniFav').addEventListener('click', e => { e.stopPropagation(); $('favBtn').click(); });
 // Share the app: the phone's share sheet, or copy the link where there isn't one.
 $('shareBtn').addEventListener('click', async () => {
   const btn = $('shareBtn');
@@ -1381,6 +1386,8 @@ function renderSongInfo() {
   fav.textContent = on ? '❤️' : '🤍';
   fav.setAttribute('aria-label', on ? 'Saved. Tap to remove' : 'Save song');
   fav.classList.toggle('on', on);
+  const mf = $('miniFav');
+  if (mf) { mf.hidden = fav.hidden; mf.textContent = fav.textContent; mf.setAttribute('aria-label', fav.getAttribute('aria-label')); mf.title = on ? 'Saved' : 'Save song'; }
   $('recentBtn').hidden = !songInfo.history.length;
   $('savedBtn').hidden = false;   // always there, so a backup can be restored into an empty list
   $('savedBtn').textContent = '📜 Saved songs (' + saved.length + ')';
